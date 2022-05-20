@@ -1,7 +1,6 @@
 # OLA_taxi_booking_service_clone
 
--ola folder contains PHP files
--ola is the sql file containing the database
+Repo consist of PHP files and SQl file for the database
 
 Directions to run:
 Import the sql file in the phpMyAdmin after creation of the database named: "ola". after that run the xamp and start the Apache and MySql server. open the Browser and then search: localhost/ola/login.php
