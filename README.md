@@ -1,6 +1,6 @@
 # OLA_taxi_booking_service_clone
 
-Languages used: PHP, HTML, CSS and MySQl
+Languages used: PHP, HTML, CSS and MySQl.
 Database used is MariaDB
 
 Repo consist of PHP files and SQl file for the database
