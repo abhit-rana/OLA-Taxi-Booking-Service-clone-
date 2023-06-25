@@ -1,5 +1,5 @@
 ## Instroduction
-On this website, customers can search for Cars available near their current location, you can book the ride, cancel the ride, and pay the amount, and also, there is a penalty for canceling the ride. Enrolled driver status of working, see the total working hour for the current year, most rides prone area, and total earnings.
+A taxi booking service where the customer can search for cars near his location, book the ride, cancel the ride, pay the bill, pay the penalty, and the driver can change the status of working, see the total working hour for the current year, most rides prone area, total earnings.
 
 Languages used: PHP, HTML, CSS, and MySQL
 
