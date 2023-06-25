@@ -9,3 +9,9 @@ Repo consist of PHP files and SQl file for the database.
 
 ## Directions to run
 Import the SQL file in the phpMyAdmin after creating the database named: "ola." after that, run the xampp and start the Apache and MySql server. open the Browser and then search: localhost/ola/login.php
+
+## Collaborator
+
+* Ipsita R
+* Pratham Koli
+* Ojas Narang
